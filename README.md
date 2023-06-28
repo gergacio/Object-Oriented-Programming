@@ -6,5 +6,5 @@
 #### Day 2
 - Multiple Classes
 - Object Diagrams
-#### Day 3
+#### Day 3
 - Test-Driven Development
